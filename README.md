@@ -19,7 +19,10 @@ list_a = [10, 501, 22, 37, 100, 999, 87, 35]
 print(odd_even(list_a))
 
 
+
 #program 2
+
+
 
 numberList = [10,501,22,37,100,999,87,35]
 ansList = []
@@ -45,7 +48,10 @@ else :
     print("No any number from the given list is Prime")
 
 
+
 #program 3
+
+
 
 def numSquareSum(list_a):
     num = 0
@@ -69,8 +75,12 @@ def isHappyNumber(i):
 list_a=[10,501,22,37,100,999,87,35]
 print(isHappyNumber(list_a))
 
+
+
 #PROGRAM 4
 
+
+  
 def sum(a):
     str_a=str(a)
     first_dig=int(str_a[0])
@@ -81,7 +91,11 @@ def sum(a):
 a=1234
 print(sum(a))
 
+
+
 #program 6
+
+
 
 def dupli(a,b,c):
     set_a=set(a)
@@ -98,7 +112,11 @@ b=[1,3,4,5,6]
 c=[2,4,5,7,8]
 print(dupli(a,b,c))
 
+
+
 #program 7
+
+
 
 def nonrep(a, n):
 
@@ -118,7 +136,11 @@ a = [1,2,1,3,2,3,5]
 n = len(a)
 print(nonrep(a, n))
 
+
+
 #program 8
+
+
 
 a=[12,52,64,48,26,19,2]
 a.sort()
