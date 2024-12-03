@@ -15,5 +15,5 @@ def odd_even(list_a):
 
 
 # main program
-list_a = [10, 501, 22, 37, 100, 999, 87, 35]
+list_a = [10, 501, 22, 37, 100, 999, 87, 351]
 print(odd_even(list_a))
