@@ -20,5 +20,5 @@ def isHappyNumber(i):
             return a
         
         
-list_a=[10,501,22,37,100,999,87,35]
+list_a=[10,501,22,37,100,999,87,351]
 print("THE NUMBER OF HAPPY NUMBERS IN THE GIVEN LIST : ",isHappyNumber(list_a))
