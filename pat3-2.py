@@ -1,5 +1,5 @@
 #program 2
-numberList = [10,501,22,37,100,999,87,35]
+numberList = [10,501,22,37,100,999,87,351]
 ansList = []
 for num in numberList :
     
